@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#6366f1"/>
+  <!-- people/network icon -->
+  <circle cx="256" cy="180" r="64" fill="white"/>
+  <path d="M148 380c0-59.6 48.4-108 108-108h0c59.6 0 108 48.4 108 108" stroke="white" stroke-width="40" stroke-linecap="round" fill="none"/>
+  <circle cx="144" cy="220" r="44" fill="white" opacity="0.7"/>
+  <path d="M60 360c0-46.4 37.6-84 84-84" stroke="white" stroke-width="32" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <circle cx="368" cy="220" r="44" fill="white" opacity="0.7"/>
+  <path d="M452 360c0-46.4-37.6-84-84-84" stroke="white" stroke-width="32" stroke-linecap="round" fill="none" opacity="0.7"/>
+</svg>
